@@ -1,4 +1,22 @@
-## Hi there 👋
+
+# Hi, I'm Tupendra Nagargade 👋
+
+🎓 B.Tech CSE Student
+
+- 💻 Learning C and Python
+- 🌱 Exploring Git and GitHub
+- 🎯 Aspiring Software Developer
+
+## Tech I'm Learning
+- C
+- Python
+- Data Structures and Algorithms
+
+## My Goals
+- Build useful coding projects
+- Improve problem-solving skills
+- Contribute to open-source projects
+
 
 <!--
 **tupendranagargade-rgb/tupendranagargade-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
